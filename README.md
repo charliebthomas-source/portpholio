@@ -29,5 +29,5 @@
         <p> This is going to be my first ever coded thing and i am making a portphollio</p>
         </section>
     </body>
-
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 </html>
