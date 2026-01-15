@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+    
         <link rel="stylesheet" href="styles.css" 
         type="text/css">
 
@@ -11,5 +12,6 @@
         <h1> A work in progrees portphollio </h1>
         <p> This is going to be my first ever coded thing and i am making a portphollio</p>
     </body>
-
+ 
 </html>
+
