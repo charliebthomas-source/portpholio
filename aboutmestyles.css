@@ -1,19 +1,8 @@
-button{
-    color: hotpink;
-    background-color: #f4f7fb;
-    font-weight: 200;
-    border-color: #f4f7fb;
-    box-shadow: #f4f7fb;
-    
-}
-
-
 header{
-    background: palegreen;
-    color: mediumslateblue;
+    background: whitesmoke;
+    color: gold;
     text-align: center;
     padding: 50px ;
-    border-radius: 10px;
 
 }
 h1{
@@ -48,6 +37,14 @@ section{
 }
 
 section h2{
+margin-top: 0;
+color: black;
+}
+
+
+/* i need to change h3 to be big like a title while h2 is a subtile fo section articals and aside stuff*/
+
+section h3{
 margin-top: 0;
 color: black;
 }
