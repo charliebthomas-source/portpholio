@@ -1,14 +1,14 @@
 
 <!DOCTYPE html>
 <html lang="uk">
-   <head>
+    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--Linking to the style sheet-->
         <link rel="stylesheet" href="styles.css" 
         type="text/css">
          <!--Linking to the style sheet-->
-      <title>My work in Progress</title>
+     <title>My work in Progress</title>
     </head>
     <body>
     <header><h1>This is my first ever porpholioe</h1>
