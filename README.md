@@ -17,7 +17,7 @@
 
 
 
-   <section><!--section 1-->
+   <section><!--section 1 about me -->
    <div class="container"><!--makes it so it move fluid i need to explain better but later -->
     <div class="main">
       <h2> About me </h2>
@@ -33,7 +33,7 @@
    </section>
  
  
-   <section>
+   <section><!--section 2 poems -->
     <div class="container">
    <div class="side">
       <img scr="image.png" alt="mug shot of me" width="500" height="500"/> <!--i want to put a poem here of mine-->
@@ -47,7 +47,7 @@
 
 
 
-   <section>
+   <section><!--section 3 hats-->
    <div class="container">
    <div class="main">
     <h2>Project 02</h2>
@@ -60,7 +60,7 @@
    </section>
 
 
-   <section>
+   <section><!--section 4 kit car-->
    <div class="container">
    <div class="side">
     <img scr="image.png" alt="mug shot of me" width="500" height="500"/> <!--photo of the toylander-->
@@ -73,7 +73,7 @@
    </section>
 
 
-   <section>
+   <section><!--section 5 coding -->
    <div class="container">
    <div class="main">
     <h2>Project 04</h2>
